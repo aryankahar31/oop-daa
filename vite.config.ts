@@ -7,4 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
+  base: '/oop-daa/', // GitHub Pages ke liye repo naam add karo
 });
